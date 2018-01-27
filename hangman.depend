@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516633318 source:c:\users\m.y.t\desktop\project ali timi\hang man\hangman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
